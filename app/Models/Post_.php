@@ -1,0 +1,10 @@
+Post::create([
+"title" => 'Judul ke Tiga',
+"slug" => 'judul-ke-tiga',
+"excerpt" => 'Lorem ipsum dolor sit amet ke Tiga',
+"body" => '<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum in dolorum sint aut mollitia eligendi iste doloribus aperiam minima pariatur, qui nesciunt, doloremque laudantium reprehenderit possimus adipisci tempora hic corporis ex.</p>
+<p>Porro maiores nihil quaerat error! Dolore mollitia nulla suscipit perferendis iure qui ex voluptates, excepturi sit cumque rerum quibusdam sint vero pariatur corporis. Soluta nobis corporis voluptates neque, suscipit repellat consectetur, perferendis sequi fugiat magnam ratione! Libero aliquid aspernatur eius ex veritatis tempora, consequatur omnis deserunt, consequuntur repudiandae, dicta expedita inventore neque cumque nostrum.</p>
+<p>Officiis suscipit obcaecati nam error ducimus quae voluptates dicta, voluptatem provident corporis mollitia totam sunt culpa soluta. Eaque minus delectus facilis mollitia magni soluta alias quia modi, id, ab perspiciatis. Illum aliquam eum maiores ullam accusamus enim nam modi ea distinctio velit facilis, tempore quos, commodi minima ad officiis fugiat laboriosam sed culpa aut? Quidem, quaerat a? Nam, quae magnam! Facere tempora veniam sunt voluptatum, laudantium laborum at ullam dolorem placeat sit! Voluptatem maxime officia dignissimos neque illum illo dolor, minima numquam dolorum ullam culpa cum doloribus debitis rem voluptatibus omnis provident! Provident dicta asperiores dolore, nulla quaerat inventore aspernatur recusandae corrupti quidem quisquam qui sunt hic porro? Alias accusantium, fuga explicabo perferendis harum enim?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae cupiditate accusantium odit illo provident fuga dolore exercitationem blanditiis suscipit a commodi, ratione, sed libero. Facere harum doloribus debitis, obcaecati velit itaque voluptatum reprehenderit dolorum sunt explicabo voluptates et fugiat cumque autem commodi delectus suscipit, corrupti ducimus voluptatem sed quam provident.</p>'
+
+])
