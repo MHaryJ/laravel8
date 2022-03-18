@@ -9,7 +9,9 @@
 </head>
 
 <body>
-    <h1>Mohamad Hary Juwiarto</h1>
+    <h2>Mohamad Hary Juwiarto</h2>
+    <h4>Manusia</h4>
+    <p>Coba Parahgrap</p>
 </body>
 
 </html>
