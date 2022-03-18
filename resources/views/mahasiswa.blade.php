@@ -9,8 +9,10 @@
 </head>
 
 <body>
-    <h1>Mohamad Hary Juwiarto</h1>
-    <h2>Manusia Biasa</h2>
+    <h2>Mohamad</h2><br>
+    <h2>Hary</h2><br>
+    <h2>Juwiarto</h2>
+
 </body>
 
 </html>
