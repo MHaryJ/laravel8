@@ -12,6 +12,9 @@
     <h1>Mohamad Hary Juwiarto</h1>
     <h4>Manusia</h4>
     <p>Coba Parahgrap</p>
+    <h1>Mencoba hal baru</h1>
+    <h4>Dengan Memasukkan Code</h4>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo, eum nostrum. Dolorem, iusto voluptates fuga maxime eligendi sequi magni similique quidem delectus, perferendis exercitationem expedita enim, recusandae dolores mollitia rem?</p>
 
 
 </body>
